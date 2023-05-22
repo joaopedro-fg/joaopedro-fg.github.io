@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 2"
+title: "Raízes e panorama do trabalho doméstico remunerado no Brasil: reprodução social e algumas de suas contradições"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This article utilizes a methodology that combines qualitative empirical evidence (interviews and historical investigation) and quantitative analysis (development and analysis of statistics based on the Continuous National Household Sample Survey) to highlight the current scenario and historical processes that have led to a continuous devaluation of domestic paid labor in Brazil, which is predominantly performed by women and lies at the core of the processes that enable our social reproduction. It argues that this reproductive work, as an expression of the gender division of labor rooted in our colonial past, is heavily marked by the legacy of enslavement and, in this sense, is primarily carried out by Black women. It is characterized by informality, precariousness, low wages, and the absence of state protection. It is widely understood as an activity conducted within private and affectionate relationships, to the detriment of its recognition as a professional employment relationship.
+
+In this context, the objective of this technical note is to make visible the living reality of these women and assess the current limits of state protection for this category. Despite decades of organized struggle by domestic workers, this economic activity has long been disregarded as a legitimate form of work, with the institutionalization of this difference through labor laws that perpetuated the segregations established during the period of slavery. However, the resilience of the domestic workers' movement has proven fruitful, and recently, some of their historical demands have been met. However, the fight for the guarantee of the rights they have achieved continues, as the majority of this class of workers still have informal employment relationships, and there is a need for political, economic, and social recognition of this category.'
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://madeusp.com.br/wp-content/uploads/2023/04/npe38_site.pdf'
+citation: 'Resende, Amanda. Et. Al. (2023). &quot;Raízes e panorama do trabalho doméstico remunerado no Brasil: reprodução social e algumas de suas contradições. &quot;'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This article utilizes a methodology that combines qualitative empirical evidence (interviews and historical investigation) and quantitative analysis (development and analysis of statistics based on the Continuous National Household Sample Survey) to highlight the current scenario and historical processes that have led to a continuous devaluation of domestic paid labor in Brazil, which is predominantly performed by women and lies at the core of the processes that enable our social reproduction. It argues that this reproductive work, as an expression of the gender division of labor rooted in our colonial past, is heavily marked by the legacy of enslavement and, in this sense, is primarily carried out by Black women. It is characterized by informality, precariousness, low wages, and the absence of state protection. It is widely understood as an activity conducted within private and affectionate relationships, to the detriment of its recognition as a professional employment relationship.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+In this context, the objective of this technical note is to make visible the living reality of these women and assess the current limits of state protection for this category. Despite decades of organized struggle by domestic workers, this economic activity has long been disregarded as a legitimate form of work, with the institutionalization of this difference through labor laws that perpetuated the segregations established during the period of slavery. However, the resilience of the domestic workers' movement has proven fruitful, and recently, some of their historical demands have been met. However, the fight for the guarantee of the rights they have achieved continues, as the majority of this class of workers still have informal employment relationships, and there is a need for political, economic, and social recognition of this category.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://madeusp.com.br/wp-content/uploads/2023/04/npe38_site.pdf)
+
+Recommended citation: Resende, Amanda. Et. Al. (2023). Raízes e panorama do trabalho doméstico remunerado no Brasil: reprodução social e algumas de suas contradições.

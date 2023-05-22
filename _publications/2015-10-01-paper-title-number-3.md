@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Quais os efeitos do novo arcabouço fiscal sobre a trajetória de gastos públicos? Uma análise preliminar"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper offers a preliminary discussion of the effects that the New Fiscal Framework (NAF), announced by the Lula Government on March 30, 2023, may have on the trajectory of Brazilian public expenses. Counterfactuals are presented to evaluate the effects that the adoption of the NAF would have had since 2001, under different scenarios. In addition, some projections of the trajectory of public spending in the coming years under the NAF are presented. The counterfactual simulations indicate an improvement compared to the current Spending Cap. They highlight, for example, the countercyclical potential of the NAF but show that expenses would be reduced as a proportion of GDP compared to the original historical series. Furthermore, they point to a change in the composition of expenses, favoring public investments over current expenditures. Projections for 2030 also suggest a decrease in expenses as a proportion of GDP under optimistic and pessimistic scenarios of economic growth, which could hinder the government's role in areas such as health, education, and social protection. However, measures capable of generating increased revenue can offset this effect, allowing for the recovery of public investment and stabilizing the ratio between spending and GDP in the coming years. In the case of the current Spending Cap, an increase in revenue would only result in a higher primary surplus without creating any room for investment recovery.'
+date: 2023-04-03
+venue: 'MADE USP'
+paperurl: 'https://madeusp.com.br/wp-content/uploads/2023/04/npe-036_site.pdf'
+citation: 'Marques, Pedro Romero. Et. Al. (2023). &quot;Quais os efeitos do novo arcabouço fiscal sobre a trajetória de gastos públicos? Uma análise preliminar.&quot;'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper offers a preliminary discussion of the effects that the New Fiscal Framework (NAF), announced by the Lula Government on March 30, 2023, may have on the trajectory of Brazilian public expenses. Counterfactuals are presented to evaluate the effects that the adoption of the NAF would have had since 2001, under different scenarios. In addition, some projections of the trajectory of public spending in the coming years under the NAF are presented. The counterfactual simulations indicate an improvement compared to the current Spending Cap. They highlight, for example, the countercyclical potential of the NAF but show that expenses would be reduced as a proportion of GDP compared to the original historical series. Furthermore, they point to a change in the composition of expenses, favoring public investments over current expenditures. Projections for 2030 also suggest a decrease in expenses as a proportion of GDP under optimistic and pessimistic scenarios of economic growth, which could hinder the government's role in areas such as health, education, and social protection. However, measures capable of generating increased revenue can offset this effect, allowing for the recovery of public investment and stabilizing the ratio between spending and GDP in the coming years. In the case of the current Spending Cap, an increase in revenue would only result in a higher primary surplus without creating any room for investment recovery.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://madeusp.com.br/wp-content/uploads/2023/04/npe-036_site.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Marques, Pedro Romero. Et. Al. (2023). Quais os efeitos do novo arcabouço fiscal sobre a trajetória de gastos públicos? Uma análise preliminar.

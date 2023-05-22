@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, University of São Paulo, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023 - Current: IPEA
+  * The Institute of Applied Economic Research (Portuguese: Instituto de Pesquisa Econômica Aplicada, Ipea) is a Brazilian government-led research organization dedicated to generation of macroeconomical, sectorial and thematic studies in order to base government planning and policy making. 
+  * Position: Visiting Researcher
+  * Habilities: Stata, Data Cleaning, Microdata analysis, Econometrics, Academic Writing.
+* 2023 - Current: MagazineLuiza
+  * MagazineLuiza is one of Brazil's largest retail companies and it stands out as a prime example of success in digital transformation and is widely recognized as one of the most data-driven companies in the country.
+  * Position: Data Science Intern
+  * Habilities: ETL, Machine Learning, Python, Apache Spark, SQL, Google Data Studio, Airflow.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2022 - Current: MADE - USP
+  * The Research Center on Macroeconomics of Inequalities (in Portuguese, Made), based at the University of São Paulo (FEA/USP), is dedicated to understanding and discussing the foundations and economic consequences of the multiple aspects of inequalities, especially in the Brazilian reality.
+  * Position: Research Assistant
+  * Habilities: R, Python, Stata, Data Cleaning, Microdata analysis, Econometrics, Academic Writing.
+
+* 2021 - 2022: Conta Simples
+  * Conta Simples(YC S20) is an all-in-one financial platform that combines checking account, expense management software and corporate cards, for Latam companies. 
+  * Position: Intern/Product Analyst
+  * Habilities: Product Management, Data Analysis, SQL.
+* 2020 - 2021: PATREO
+  * The Pattern Recognition and Earth Observation (PATREO) Laboratory is interested in researching and developing new Machine Learning and Image Processing techniques. The main research applications are very related, but not restricted, to the Earth Observation issues, which include remote sensing, agriculture, ecology, and other related fields.. 
+  * Position: Intern
+  * Habilities: Python, Flask, Web Development, Machine Learning Ops.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
-Talks
+Volunteer Work
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Enxurrada de Bits: Developed and taught a Python Game Development course specifically designed for elementary school students in public schools.
+* Brazillian Economics Olympiad: Part of the orgazining comitte, helped to design the communication strategy and created questions for the olympiad.

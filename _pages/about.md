@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is João Pedro. I am undergraduate student of economics at the university of São Paulo. Currently, I work as a Research Assistant at [MADE - USP](https://madeusp.com.br/), a research center dedicated to understading inequality, especially in Brazil, and as a Machine Learning Engineer at [Palver](https://www.palver.com.br/), a platform that allows users to track narratives online within social and mainstream media.
+Hi! My name is João Pedro. I am a masters student at the Paris School of Economics. Currently, I am the head of Machine Learning and AI at [Palver](https://www.palver.com.br/), a platform that allows users to track narratives online within social and mainstream media.
 
 What you will find here
 ======
